@@ -1,0 +1,5 @@
+{
+  "name": "DataKeeper Hero",
+  "description": "A pixel-perfect recreation of the DataKeeper SaaS hero section featuring a Three.js cube cluster.",
+  "requestFramePermissions": []
+}
